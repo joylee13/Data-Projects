@@ -7,3 +7,11 @@ Gathered data from the US GSA to provide insights for clients interested in unde
  - Total Registered Vehicles in the N largest zipcodes (with dynamic parameter to adjust N)
  - Top 25 most commonly owned e-vehicle models
  - E-vehicle ownership trends over time
+
+## [E-Commerce Sales Performance Report, SQL](SalesAnalysis.sql)
+Utilized MySQL to analyze a Kaggle dataset on 2022 E-commerce sales. Used skills such as joins, views, case statements, CTE's, aggregate functions and more to answer the following business questions:
+- What did our sales look like in 2022?
+- Which cities are the most profitable?
+- What are our best selling categories?
+- How did sales vary from quarter to quarter?
+- Who are our top customers?
