@@ -15,3 +15,8 @@ Utilized MySQL to analyze a Kaggle dataset on 2022 E-commerce sales. Used skills
 - What are our best selling categories?
 - How did sales vary from quarter to quarter?
 - Who are our top customers?
+
+## [TMDB Web Scraper, Python](https://github.com/joylee13/TMDB_scraper.git)
+- Implemented 3 parsing methods with the Python library scrapy to scrape The Movie Database for NBC's "The Good Place" actors and their credits
+- Leveraged pandas functions to analyze the scraped dataset for movies and tv shows that share multiple actors with "The Good Place"
+- Plotted the 10 most similar movies and tv shows, based on number of shared actors, in a plotly bar graph visualization
