@@ -17,6 +17,12 @@ Summarized data collected from [Sales Analysis queries](SalesAnalysis.sql) into 
 - Cities with the highest sales
 - Top and bottom categories by quantity
 
+## [Interactive Coffee Sales Dashboard, Excel](https://github.com/joylee13/Data-Projects/blob/main/coffeeOrdersData.xlsx)
+Mircosoft Excel project to visualize multiple coffee sales metrics. Skills demonstrated include:
+- XLOOKUP/VLOOKUP, MATCH, SUM, INDEX
+- Pivot tables, charts, slicers, timeline
+- Nested if statements, data formatting, handling null values
+
 ## [Coachella Lineup Exploratory Data Analysis, Python](CoachellaLineupEDA.ipynb)
 Analyzed Spotify artist data for names on the 2024 Coachella lineup. [*Code used to access Spotify's Web API.*](https://github.com/joylee13/Data-Projects/blob/main/main.py)
 - Cleaned data by dropping duplicates, formatting strings, and filtering for relevant columns (pandas)
