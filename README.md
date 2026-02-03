@@ -1,7 +1,7 @@
 # Data-Projects
 Data analysis and visualization projects utilizing SQL, Tableau and Python.
 
-## [TfL Bike Rental Insights and Recommendations, Python]
+## [TfL Bike Rental Insights and Recommendations, Python](TFLBikeRentalInsights.html)
 Tested OLS and XGBoost regression models on TfL’s Santander Cycles rental data.
 - Identified factors influencing ride demand
 - Presented data-driven pricing and expansion strategies
